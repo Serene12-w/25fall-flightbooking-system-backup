@@ -1,0 +1,51 @@
+iataCode,icaoCode,name,city,country,latitudeDeg,latitudeMin,latitudeDir,longitudeDeg,longitudeMin,longitudeDir,elevationFt,primaryRunway,secondaryRunway,towerFreq,groundFreq,atisFreq,utcOffset
+ATL,KATL,Hartsfield-Jackson Atlanta International Airport,Atlanta,United States,33,38.442,N,84,25.662,W,1026,8R/26L 9000ft,9R/27L 12390ft,119.1,121.9,128.57,-5
+PEK,ZBAA,Beijing Capital International Airport,Beijing,China,40,4.794,N,116,36.186,E,116,18L/36R 12467ft,18R/36L 12467ft,118.25,121.7,126.35,8
+DXB,OMDB,Dubai International Airport,Dubai,UAE,25,15.192,N,55,21.942,E,62,12R/30L 13123ft,12L/30R 14435ft,118.75,121.85,126.55,4
+LAX,KLAX,Los Angeles International Airport,Los Angeles,United States,33,56.55,N,118,24.486,W,126,6R/24L 11095ft,7L/25R 11095ft,120.95,121.65,133.8,-8
+LHR,EGLL,London Heathrow Airport,London,United Kingdom,51,28.2,N,0,27.258,W,83,09L/27R 12799ft,09R/27L 12008ft,118.5,121.7,128.07,0
+HND,RJTT,Tokyo Haneda Airport,Tokyo,Japan,35,32.964,N,139,46.788,E,21,16L/34R 9842ft,16R/34L 9843ft,118.1,121.9,127.6,9
+CDG,LFPG,Paris Charles de Gaulle Airport,Paris,France,49,0.582,N,2,32.874,E,392,08L/26R 13780ft,08R/26L 13780ft,118.7,121.9,126.12,1
+SIN,WSSS,Singapore Changi Airport,Singapore,Singapore,1,21.864,N,103,59.49,E,22,02L/20R 13123ft,02C/20C 13123ft,118.6,121.9,126.7,8
+FRA,EDDF,Frankfurt am Main Airport,Frankfurt,Germany,50,2.274,N,8,33.732,E,364,07C/25C 13123ft,07R/25L 13123ft,119.9,121.8,127.37,1
+HKG,VHHH,Hong Kong International Airport,Hong Kong,Hong Kong,22,18.48,N,113,55.11,E,28,07R/25L 12468ft,07L/25R 12468ft,118.4,121.9,129.9,8
+ORD,KORD,Chicago O'Hare International Airport,Chicago,United States,41,58.452,N,87,54.438,W,672,10L/28R 13000ft,10C/28C 13000ft,120.75,121.9,135.4,-6
+AMS,EHAM,Amsterdam Schiphol Airport,Amsterdam,Netherlands,52,18.63,N,4,46.098,E,-11,18R/36L 12467ft,06/24 11483ft,118.4,121.7,132.97,1
+ICN,RKSI,Incheon International Airport,Seoul,South Korea,37,27.612,N,126,26.442,E,23,15R/33L 12467ft,15L/33R 12467ft,118.1,121.9,127.1,9
+DFW,KDFW,Dallas/Fort Worth International Airport,Dallas,United States,32,53.808,N,97,2.28,W,607,17L/35R 13400ft,17R/35L 13400ft,120.95,121.65,135.37,-6
+DOH,OTHH,Hamad International Airport,Doha,Qatar,25,16.416,N,51,36.516,E,13,16L/34R 15750ft,16R/34L 13123ft,118.6,121.9,126.3,3
+YYZ,CYYZ,Toronto Pearson International Airport,Toronto,Canada,43,40.662,N,79,37.488,W,569,06L/24R 11120ft,06R/24L 9000ft,118.35,121.9,128.8,-5
+IST,LTFM,Istanbul Airport,Istanbul,Turkey,41,16.518,N,28,45.114,E,325,16L/34R 13123ft,17L/35R 13123ft,118.1,121.9,126.8,3
+SYD,YSSY,Sydney Kingsford Smith Airport,Sydney,Australia,33,56.394,S,151,10.518,E,21,16R/34L 12999ft,16L/34R 7929ft,120.5,121.7,126.25,10
+PVG,ZSPD,Shanghai Pudong International Airport,Shanghai,China,31,8.604,N,121,48.312,E,13,16L/34R 12467ft,16R/34L 12467ft,118.1,121.9,125.9,8
+KUL,WMKK,Kuala Lumpur International Airport,Kuala Lumpur,Malaysia,2,44.736,N,101,42.552,E,69,14L/32R 12000ft,14R/32L 12000ft,118.5,121.9,128.0,8
+JNB,FAOR,O. R. Tambo International Airport,Johannesburg,South Africa,26,8.352,S,28,14.76,E,5558,03/21 12467ft,03R/21L 12467ft,118.1,121.9,127.9,2
+MIA,KMIA,Miami International Airport,Miami,United States,25,47.598,N,80,17.436,W,9,08L/26R 12000ft,09/27 12000ft,120.5,121.9,126.95,-5
+SFO,KSFO,San Francisco International Airport,San Francisco,United States,37,37.128,N,122,22.5,W,13,10L/28R 11870ft,01L/19R 8500ft,119.1,121.9,127.1,-8
+SEA,KSEA,Seattle-Tacoma International Airport,Seattle,United States,47,26.934,N,122,18.564,W,433,16L/34R 11000ft,16C/34C 11500ft,118.5,121.9,135.12,-8
+DEN,KDEN,Denver International Airport,Denver,United States,39,51.366,N,104,40.422,W,5431,16R/34L 12000ft,17L/35R 12000ft,118.9,121.9,127.03,-7
+BOS,KBOS,Boston Logan International Airport,Boston,United States,42,21.936,N,71,0.576,W,20,04L/22R 10000ft,09/27 7500ft,118.9,121.9,128.575,-5
+IAH,KIAH,George Bush Intercontinental Airport,Houston,United States,29,59.412,N,95,20.208,W,97,15L/33R 12000ft,09/27 11200ft,120.5,121.9,127.2,-6
+CLT,KCLT,Charlotte Douglas International Airport,Charlotte,United States,35,12.822,N,80,56.586,W,748,18C/36C 10000ft,18L/36R 10000ft,118.9,121.9,132.05,-5
+EWR,KEWR,Newark Liberty International Airport,Newark/New York,United States,40,41.37,N,74,10.47,W,18,04L/22R 10670ft,11/29 12000ft,119.1,121.9,127.475,-5
+MUC,EDDM,Munich Airport,Munich,Germany,48,21.228,N,11,47.166,E,1472,08R/26L 12467ft,08L/26R 12467ft,118.9,121.9,129.9,1
+ZRH,LSZH,Zurich Airport,Zurich,Switzerland,47,27.486,N,8,33.714,E,1414,14/32 12000ft,16/34 10499ft,118.7,121.9,128.3,1
+BCN,LEBL,Barcelona-El Prat Airport,Barcelona,Spain,41,17.844,N,2,4.698,E,18,07L/25R 11483ft,02/20 10498ft,118.5,121.9,128.85,1
+MAD,LEMD,Adolfo Suarez Madrid-Barajas Airport,Madrid,Spain,40,28.332,N,3,33.654,W,2090,18R/36L 13123ft,18L/36R 13123ft,118.1,121.9,126.0,1
+BKK,VTBS,Bangkok Suvarnabhumi Airport,Bangkok,Thailand,13,41.4,N,100,45.006,E,1,01L/19R 11811ft,01R/19L 11811ft,118.1,121.9,126.3,7
+MNL,RPLL,Ninoy Aquino International Airport,Manila,Philippines,14,30.516,N,121,1.164,E,75,06/24 11483ft,13/31 9900ft,118.1,121.9,126.5,8
+DEL,VIDP,Indira Gandhi International Airport,New Delhi,India,28,33.372,N,77,6.0,E,777,09/27 13623ft,29/11 12139ft,118.1,121.9,125.5,5.5
+BOM,VABB,Chhatrapati Shivaji Maharaj International Airport,Mumbai,India,19,5.376,N,72,51.936,E,39,14/32 12467ft,09/27 10799ft,118.1,121.9,128.85,5.5
+CAN,ZGGG,Guangzhou Baiyun International Airport,Guangzhou,China,23,23.544,N,113,17.928,E,49,02/20 12467ft,02L/20R 12467ft,118.1,121.9,127.4,8
+NRT,RJAA,Narita International Airport,Narita (Tokyo),Japan,35,46.314,N,140,23.574,E,141,16R/34L 12467ft,16L/34R 13123ft,118.3,121.9,128.6,9
+SVO,UUEE,Sheremetyevo International Airport,Moscow,Russia,55,58.356,N,37,24.876,E,622,06/24 12467ft,07R/25L 13123ft,118.0,121.9,126.3,3
+TLV,LLBG,Ben Gurion Airport,Tel Aviv,Israel,32,0.354,N,34,53.202,E,70,12/30 13123ft,08/26 11155ft,118.1,121.9,127.7,2
+JED,OEJN,King Abdulaziz International Airport,Jeddah,Saudi Arabia,21,40.776,N,39,9.414,E,45,16/34 13123ft,16L/34R 13123ft,118.1,121.9,126.5,3
+RUH,OERK,King Khalid International Airport,Riyadh,Saudi Arabia,24,57.456,N,46,41.88,E,2050,01L/19R 13123ft,01R/19L 13123ft,118.1,121.9,126.6,3
+GRU,SBGR,Sao Paulo-Guarulhos International Airport,Sao Paulo,Brazil,23,26.136,S,46,28.386,W,2453,10R/28L 12390ft,09L/27R 10799ft,118.1,121.9,127.4,-3
+GIG,SBGL,Rio de Janeiro-Galeao International Airport,Rio de Janeiro,Brazil,22,48.54,S,43,15.036,W,10,10/28 12467ft,15/33 10990ft,118.1,121.9,126.3,-3
+EZE,SAEZ,Ministro Pistarini International Airport,Buenos Aires,Argentina,34,49.332,S,58,32.148,W,66,11/29 12008ft,17/35 10499ft,118.1,121.9,127.0,-3
+AKL,NZAA,Auckland Airport,Auckland,New Zealand,37,0.492,S,174,47.1,E,23,05L/23R 12008ft,05R/23L 12008ft,118.7,121.9,126.8,12
+BNE,YBBN,Brisbane Airport,Brisbane,Australia,27,23.052,S,153,7.068,E,13,01/19 9842ft,14/32 8202ft,118.1,121.9,126.2,10
+CPT,FACT,Cape Town International Airport,Cape Town,South Africa,33,58.176,S,18,35.82,E,151,01/19 12467ft,16/34 10499ft,118.1,121.9,127.8,2
+HNL,PHNL,Daniel K. Inouye International Airport,Honolulu,United States,21,19.47,N,157,55.506,W,13,04L/22R 12008ft,04R/22L 12008ft,118.1,121.9,127.8,-10
