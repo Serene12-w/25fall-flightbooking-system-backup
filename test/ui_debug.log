@@ -1,0 +1,655 @@
+Main window created successfully
+Main window created successfully
+Main window created successfully
+Main window created successfully
+Main window created successfully
+Main window created successfully
+Main window created successfully
+[show] begin
+[WindowProc] WM_CREATE received
+Main window created successfully
+[show] after createMainWindow
+[show] after ShowWindow+UpdateWindow
+After ShowWindow rect=(104,104,904,704)
+[show] timer set, entering loop
+[heartbeat] 16:54:00
+[show] begin
+[WindowProc] WM_CREATE received
+Main window created successfully
+[show] after createMainWindow
+[show] after ShowWindow+UpdateWindow
+After ShowWindow rect=(182,182,982,782)
+[show] timer set, entering loop
+[heartbeat] 17:01:20
+[WindowProc] WM_DESTROY received, quitting
+[show] begin
+[WindowProc] WM_CREATE received
+Main window created successfully
+[show] after createMainWindow
+[show] after ShowWindow+UpdateWindow
+After ShowWindow rect=(234,234,1034,834)
+[show] timer set, entering loop
+[WindowProc] WM_DESTROY received, quitting
+[show] begin
+[WindowProc] WM_CREATE received
+Main window created successfully
+[show] after createMainWindow
+[show] after ShowWindow+UpdateWindow
+After ShowWindow rect=(52,52,852,652)
+[show] timer set, entering loop
+[heartbeat] 17:01:50
+[heartbeat] 17:02:00
+[WindowProc] WM_DESTROY received, quitting
+[show] begin
+[WindowProc] WM_CREATE received
+Main window created successfully
+[show] after createMainWindow
+[show] after ShowWindow+UpdateWindow
+After ShowWindow rect=(104,104,904,704)
+[show] timers set: t1=1 t2=2, entering loop
+[loop] start
+[WindowProc] WM_DESTROY received, quitting
+[show] begin
+[WindowProc] WM_CREATE received
+Main window created successfully
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[show] after createMainWindow
+[show] after ShowWindow+UpdateWindow
+After ShowWindow rect=(156,156,956,756)
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[show] timers set: t1=1 t2=2, entering loop
+[loop] start
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[heartbeat] 17:17:10
+[watchdog] tick
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[watchdog] tick
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[heartbeat] 17:17:20
+[heartbeat] 17:17:20
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[watchdog] tick
+[heartbeat] 17:17:30
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[watchdog] tick
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[WindowProc] WM_DESTROY received, quitting (not posting WM_QUIT)
+[show] begin
+[WindowProc] WM_CREATE received
+Main window created successfully
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[show] after createMainWindow
+[show] after ShowWindow+UpdateWindow
+After ShowWindow rect=(208,208,1008,808)
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[show] timers set: t1=1 t2=2, entering loop
+[loop] start
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[WindowProc] WM_DESTROY received, quitting (not posting WM_QUIT)
+[show] begin
+[WindowProc] WM_CREATE received
+Main window created successfully
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[show] after createMainWindow
+[show] after ShowWindow+UpdateWindow
+After ShowWindow rect=(104,104,904,704)
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[show] timers set: t1=1 t2=2, entering loop
+[loop] start
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[watchdog] tick
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[heartbeat] 18:13:20
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[WindowProc] WM_DESTROY received, quitting (not posting WM_QUIT)
+[show] begin
+[WindowProc] WM_CREATE received
+[focus] WM_ACTIVATE state=1 hwnd=000000000003078c
+[focus] WM_SETFOCUS -> passport edit
+Main window created successfully
+[focus] WM_KILLFOCUS
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[show] after createMainWindow
+[show] after ShowWindow+UpdateWindow
+After ShowWindow rect=(182,182,982,782)
+[focus] WM_KILLFOCUS
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[show] timers set: t1=1 t2=2 t3=3, entering loop
+[loop] start
+[heartbeat] 18:17:00
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[watchdog] tick
+[focus] WM_ACTIVATE state=0 hwnd=000000000003078c
+[focus] WM_ACTIVATE state=1 hwnd=000000000003078c
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[login] title create failed err=0
+[login] passport edit create failed err=1400
+[login] name edit create failed err=1400
+[login] login btn create failed err=1400
+[login] register btn create failed err=1400
+[WindowProc] WM_DESTROY received, quitting (not posting WM_QUIT)
