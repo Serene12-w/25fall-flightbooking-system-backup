@@ -1,0 +1,6 @@
+#include <windows.h>
+
+#define IDI_APPICON 101
+
+// Application Icon
+IDI_APPICON ICON "..\\test\\icon.ico"
